@@ -1,3 +1,4 @@
+import '@/styles/globals.css';
 import '@/home/styles.css';
 
 // 카드 호버 효과
