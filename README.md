@@ -1,17 +1,28 @@
-# HTML5 Canvas Games
+# Creative Canvas
 
-## Motive
+> 인터렉티브한 경험들이 그려지는 창작의 캔버스 🎨
 
+<details>
+<summary>📅 24.06</summary>
 기존에 바닐라 자바스크립트로 고전게임들을 만들어보곤했다. 자바스크립트와 CSS를 통해서 게임을 구현하는 것이 게임 개발에서는 한계가 있음을 알게 되었다. 좀 더 업그레이드된 게임 개발을 하기 위해선 `canvas`를 통한 [HTML5 자바스크립트 게임엔진](<(https://html5gameengine.com/)>)을 사용하여 개발할 수 있다는 것을 알게 되었고, 이런 방식으로 좀 더 업그레이드된 게임 개발에 도전해보고자한다.
 
 물론 이러한 방식이 마이너하긴하지만 (자바스크립트로 게임 개발 자체가 마이너하긴하지만 🥲) 어떠한 방식으로든 게임 개발을 해볼 수 있다는 것은 흥미로운 일이라고 생각한다. Let's go HTML5 Javascript Games!! 🚀
 
 > [참고] 이전 버전 : [바닐라 자바스크립트로 게임 만들기](./archive/OLD_README.md)
 
-## Practice
+</details>
 
-- [ ] [Vampire Survivor Clone 강의 with Phaser3](https://www.inflearn.com/course/phaser-%EA%B2%8C%EC%9E%84-%EC%A0%9C%EC%9E%91-%EB%B1%80%ED%8C%8C%EC%9D%B4%EC%96%B4-%EC%84%9C%EB%B0%94%EC%9D%B4%EB%B2%8C)
+<details>
+<summary>📅 25.10</summary>
 
-- [ ] [Shooter Game with YouTube](https://www.udemy.com/course/javascript-games-101/)
+대 AI 시대에 무엇인가 만들면서 공부하는 이른바 `Learning by Doing` 에 대한 비관적인 시선이 생겼었다.
+탭, 탭, 탭하면 모든 것이 만들어지는 시기에,
+어떻게 만드는지보다 무엇을 만들지가 중요해지는 이 시기에,
+이 프로젝트의 목적인 캔버스를 통해서 멋진 것을 만들었어요! 하는게 크게 매력이 없다고 느껴졌었다.
+그렇게 조금의 시간이 흘렀고, 지금 다시 이 프로젝트를 진행해봐야겠다고 생각한 이유는,
+인터렉티브하고 창의적인 썸띵을 만들어보는 과정이 나에게 다시 필요하다는 것을 느꼈기 때문이다.
+단순히 '무엇을 만들어줘'는 AI가 잘해줄 것이지만, 적재적소에 내가 필요한 인터렉티브함을 선택하는 것은 나의 선택이고 AI가 해줄 수 없다. 나는 이러한 선택을 잘하기 위해선 많은 경험이 필요하고 이런 경험을 여기서 다시 쌓아보고자 한다.
 
-- [ ] [Multiplayer Game with YouTube](https://www.youtube.com/playlist?list=PLpPnRKq7eNW3or1H5QmYHJfrJ5els5t6B)
+ps. 김종민님의 [사이트](https://fff.cmiscm.com/#!/main) 의 다양한 표현들을 클론해보는 것도 도전해볼 생각이다. 정말 정말 멋진 사이트!
+
+</details>
