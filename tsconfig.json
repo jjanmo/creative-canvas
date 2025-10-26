@@ -15,8 +15,7 @@
     "allowImportingTsExtensions": true,
     "noEmit": true,
     "paths": {
-      "@shared/*": ["./src/shared/*"],
-      "@assets/*": ["./src/assets/*"]
+      "@/*": ["./src/*"]
     }
   },
   "include": ["src/**/*"],

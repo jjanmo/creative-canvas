@@ -1,4 +1,4 @@
-import './styles.css';
+import '@/home/styles.css';
 
 // 카드 호버 효과
 const cards = document.querySelectorAll<HTMLElement>('.card');

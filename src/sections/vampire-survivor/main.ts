@@ -1,4 +1,4 @@
-import './styles.css';
+import '@/sections/vampire-survivor/styles.css';
 
 console.log('Vampire Survivor Clone - Game initialization');
 
